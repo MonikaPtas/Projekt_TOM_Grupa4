@@ -1,0 +1,4 @@
+Opis jest bardzo mało precyzyjny. Trudno się do niego odnieść i zaproponować szczegółowe zmiany.
+Na pewno sieć AlexNet nie służy do segmentacji (a do klasyfikacji/detekcji) -> proponuję dokonać zmiany i wykorzystać sieć o architekturze encodera-decodera.
+
+Zapropowany sposób ewaluacji wyników (jak już będą) jest poprawny (oczywiście należy go wyznaczyć osobno dla nerki i nowotworu uwzględniając fakt, że mówimy o danych 3-D).
